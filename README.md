@@ -31,4 +31,4 @@ Después el programa muestra los datos que el usuario desea ver, como:
 
 • Ganancias obtenidas por la venta
 
-Para esto se utilizó la variable System.out.println(); la cual es al que muestra los datos, con su respectivo descuento conforme a la cantidad de cantidad de compra, y la ganancia.
+Para esto se utilizó la variable System.out.println(); la cual es al que muestra los datos, con su respectivo descuento conforme a la cantidad de compra, y la ganancia obtenida.
